@@ -27,21 +27,3 @@ real xpath
 
 
 
-
-driver.manage.window().setSize(dimension);
-
-driver.manage.window().maximize(dimension);
-
-WebDriver.TargerLocator -> activeElement(): switch the element that currently has the focus
-			   alert(): switch to active model dialog
-				   getText(), sendKeys(), accept(), dismiss()
-					Alert simpleAlert = driver.switchTo().alert();
-
-
-web element functionality:
-	web element is a represent of a physical element on the web page;
-		getTagname(), getText(), isDisplayed(), isSelected(), isEnabled(), submit()
-document.querySelector()
-findElement():first element matches the given id or <href> else return NoSuchElementFound is throw, findElements(): list all the mentioned elements type in the page 
-By:- id,class name, css selectors, linkText, Xpath,tag name. 
-
