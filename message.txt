@@ -1,9 +1,8 @@
+line added
 
 
 
 
-before ethat complect sme basic of testing 
-types of testing and is how it is uses 
 
 two website 
 TestNG
